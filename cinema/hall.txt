@@ -1,0 +1,4 @@
+room_number, film_format, free_spaces
+1, 2D, 34
+2, 3D, 42
+3, 3D, 15
